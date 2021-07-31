@@ -4,7 +4,7 @@
 dist/
 /.pnp
 .pnp.js
-
+package-lock.json
 # Sass
 .sass-cache/
 *.css.map
@@ -12,3 +12,4 @@ dist/
 *.scss.map
 # misc
 .DS_Store
+.env
