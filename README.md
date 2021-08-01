@@ -25,6 +25,13 @@ or
 $ npm run dev
 ```
 
+```bash
+# You need to create a folder called .env
+# Generating a key on the link below inserts it into this folder.
+
+- API: ( https://developer.nytimes.com/ )
+```
+
 ## ♟️ Techs
 
 
@@ -35,7 +42,7 @@ $ npm run dev
 ![Sass](https://img.shields.io/badge/-Sass-C76494?style=flat-square&logo=Sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white)
 
-- API: ( https://developer.nytimes.com/ )
+
 
 ## 👤 Author
 
