@@ -1,14 +1,14 @@
-<h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Stopwatch - Project </h1>
+<h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 The New York Times </h1>
 
 ---
-![StopWatch](https://user-images.githubusercontent.com/63623377/127362019-485ac910-db14-49d4-a528-7a352c62cdef.gif)
+![NYT](https://user-images.githubusercontent.com/63623377/127755639-4c27808f-3638-41b7-89a3-8f4a74788625.gif)
+
 
 ---
 
-## Stopwatch 
+## The best-selling books
 
-This stopwatch counts the seconds minutes and hours.
-A library called EasyTimer.js was used to count the time.
+I'm using a Private API from The New York Times Developer Network. to list the best-selling books.
 
 
 ```bash
@@ -27,6 +27,7 @@ $ npm run dev
 
 ## ♟️ Techs
 
+
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-212121?style=flat-square&logo=GitHub&logoColor=white)
@@ -34,7 +35,7 @@ $ npm run dev
 ![Sass](https://img.shields.io/badge/-Sass-C76494?style=flat-square&logo=Sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white)
 
-
+- API: ( https://developer.nytimes.com/ )
 
 ## 👤 Author
 
